@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://imgur.com/6b4mvUZ" alt="Negrete-Snap">
+  <img src="https://i.imgur.com/6b4mvUZ.jpg" alt="Negrete-Snap">
   <br />
-  [Project]
+  Negrete-Snap
 </h1>
 
 <p align="center"><b>This is the snap for Jorge Negrete fans</b>, <i>"The best Charro mexicano"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
